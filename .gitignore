@@ -1,0 +1,7 @@
+.vercel
+venv
+.DS_Store
+.idea
+*.sqlite3
+*pyc
+.env
